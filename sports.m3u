@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharBawdi.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/Maharbawdi_m.png" group-title="Myanmar Tv" ,MAHARBAWDI
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3a66beda11144dcb3faf62f6d4f9da0:269fd62b6d32921e67920fd4ceff5595
+https://ott2.canalplus-myanmar.com/bpk-tv/MAHARBAWDI/output2/index.mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" DVBTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Democratic_Voice_of_Burma.png" group-title="Myanmar Tv" ,DVB
+https://live-stream.dvb.no/hls/stream_higher/index.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" VOAnews.com " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/VOA_logo.svg/330px-VOA_logo.svg.png" group-title="Myanmar Tv" ,VOA
+https://voa-video-hls-ns.akamaized.net/pangeavideo/2025/03/e/eb/eb812b56-3898-4d0b-8e09-01ef70829123_master.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MRTV4.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/MRTV-4%20HD_m.png" group-title="Myanmar Tv" ,MRTV-4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be7f7cbe12a54a27917f21f7310f63ae:101c5da36da54bc88122b932d946e9f7
+https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" Channel7.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/Channel7%20HD_m.png" group-title="Myanmar Tv" ,CHANNEL7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
+https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL7_HD/output2/index.mpd
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Mahar_TV_logo.npg.png" group-title="Myanmar Tv" ,Mahar
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharEsports.mm " tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png" group-title="Myanmar Tv" ,Mahar ESport
+https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" FortuneTV.mm " tvg-logo="https://i.postimg.cc/qqHvMTwF/1743317027293.png" group-title="Myanmar Tv" ,Fortune
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" ChannelK.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/330px-Channelk.png" group-title="Myanmar Tv" ,ChannelK
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MNTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/330px-Myanmar_National_TV_Logo.jpg" group-title="Myanmar Tv" ,MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MEntertainmentChannel.mm " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFvLgqJiFy4b0IbqqBeyj-j903OjgUC7PnVg&s" group-title="Myanmar Tv" ,Channel ME
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1909816536.m3u8
+
+##############C+######################
+##############SPORTS######################
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930fubosportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (FUBO SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093712/219035-321027/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930nbcuniverso" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (NBC UNIVERSO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930skysportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (SKY SPORTS DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=446af6dd9ec0395eaf5ab6adac2b8234:a70a5944e51312f5a045b1e81651d033
+https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (SKY SPORTS HD)
+https://storage.googleapis.com/unicertyngherfgac1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvsmanchestercity1930sportscastfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Manchester City 19:30 (SportsCast FHD)
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4b5ab23b-f254-4095-9092-7027c8fa88d5/master.m3u8
+
+#EXTINF:-1 tvg-id="chelseavstottenhamhotspur2015skysportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Tottenham Hotspur 20:15 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
+https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093711/219034-321026/manifest-d.mpd
