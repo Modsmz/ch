@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-VERSION:3
+
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" MaharBawdi.mm " tvg-logo="https://static-content-glb.solocoo.tv/epg/live/myanmar/channelicons/Maharbawdi_m.png" group-title="Myanmar Tv" ,MAHARBAWDI
 https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png" tvg-id=" DVBTV.mm " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Democratic_Voice_of_Burma.png" group-title="Myanmar Tv" ,DVB
